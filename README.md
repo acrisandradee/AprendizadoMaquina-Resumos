@@ -14,4 +14,4 @@ que explora conceitos, ferramentas e técnicas essenciais para a construção de
 - **Capítulo 1:** [Os conceitos básicos do aprendizado de máquina - 1. O cenário do aprendizado de máquina](./Maos-a-Obra-Cap1.md)
 
 ## 💡 Contribuições
-Se você tiver sugestões de melhorias ou quiser adicionar novos resumos, fique à vontade para abrir uma pull request! Sua contribuição é muito bem-vinda!
+Se você tiver sugestões de melhorias ou quiser trocar ideis, fique à vontade participe do [forum](https://github.com/acrisandradee/AprendizadoMaquina-Resumos/discussions) ! Sua contribuição é muito bem-vinda!
